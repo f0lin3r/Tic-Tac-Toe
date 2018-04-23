@@ -1,0 +1,38 @@
+h1{
+	text-align: center;
+	font-family:Bradley Hand, cursive;
+}
+.col-2 {
+	font-size: 16em;
+	background-color: #ccc;
+	width: 200px;
+	height:200px;
+	text-align: center;
+    border: 1px solid black;
+	display: flex;
+  	align-items: center;
+	justify-content: center
+}
+.choose{
+	font-size: 3em;
+}
+.buttons {
+	display: inline-block;
+	margin-left: 42%;
+}
+
+#O,#X{
+	font-family:cursive;
+	font-size: 1000%;
+	width: 100px;
+	height: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+.btn{
+	margin-left: 47%;
+	vertical-align: middle;
+}
+#end{
+	margin-top: 20%;
+}
